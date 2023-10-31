@@ -7,5 +7,6 @@ source venv/bin/activate
 ## Instalación de dependencias
 pip install -r requirements.txt
 
-## Ejecutar script
+## Ejecutar scripts
 python hola_mundo.py
+python hola_mundo_2.py
